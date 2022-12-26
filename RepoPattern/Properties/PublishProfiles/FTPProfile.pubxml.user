@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA5ra5hvopDE6lj/5YVAcChwAAAAACAAAAAAAQZgAAAAEAACAAAABrrkRx0W88NmsydF9tMHTFRTypiuVMjYaBBAlAdoyYBAAAAAAOgAAAAAIAACAAAAA2Jq97BxPfpye9ng0Z5yUAkimRhg7UKa5/umDGlaSpYCAAAACbk6ArveTGn74nGPX/56ckL8fW3LdgfOO1PsDmv8UvPkAAAABdx+mxmlk/tPomyqllhBVSHe3877VbCJ1e0jomZRdpMvocvXTFxILTjV4PWNAf49I7KQeXwxjYrQsuz7Hz4acc</EncryptedPassword>
+    <_PublishTargetUrl>ftp://dashboard.somee.com/www.dashboard.somee.com</_PublishTargetUrl>
+    <History>False|2022-10-30T09:02:43.1474418Z;False|2022-10-30T10:26:23.6452441+02:00;False|2022-10-30T10:21:51.9540505+02:00;False|2022-10-30T10:18:34.9615395+02:00;False|2022-10-30T10:13:31.4244236+02:00;False|2022-10-30T10:11:34.3956442+02:00;False|2022-10-30T10:09:43.6564905+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

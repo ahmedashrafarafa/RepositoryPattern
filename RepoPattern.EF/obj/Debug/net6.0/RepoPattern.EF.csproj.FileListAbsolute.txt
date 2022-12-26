@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\bin\Debug\net6.0\RepoPattern.EF.deps.json
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\bin\Debug\net6.0\RepoPattern.EF.runtimeconfig.json
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\bin\Debug\net6.0\RepoPattern.EF.dll
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\bin\Debug\net6.0\RepoPattern.EF.pdb
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\bin\Debug\net6.0\RepoPattern.Core.dll
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\bin\Debug\net6.0\RepoPattern.Core.pdb
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\RepoPattern.EF.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\RepoPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\RepoPattern.EF.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\RepoPattern.EF.AssemblyInfo.cs
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\RepoPattern.EF.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\RepoPattern.EF.csproj.CopyComplete
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\RepoPattern.EF.dll
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\refint\RepoPattern.EF.dll
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\RepoPattern.EF.pdb
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\RepoPattern.EF.genruntimeconfig.cache
+C:\Users\HP\source\repos\RepoPattern\RepoPattern.EF\obj\Debug\net6.0\ref\RepoPattern.EF.dll
